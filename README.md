@@ -9,6 +9,6 @@ The main file is `AssignmentCat.js`, and the `input.json` file contains two test
 - **Constant term for test case [1]:** 3
 - **Constant term for test case [2]:** 79836264050688
 
-![output in vs code](https://onedrive.live.com/download?resid=AQA9RfWQd1qSiph6RMtoj8nFH6IfcA)
+![output in vs code](https://i.imgur.com/S8EqQcK.png)
 
 
