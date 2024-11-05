@@ -1,0 +1,11 @@
+{
+  "name": "catalog",
+  "version": "1.0.0",
+  "description": "assignment",
+  "main": "AssignmentCat.js",
+  "scripts": {
+    "test": "node AssignmentCat.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
