@@ -7,8 +7,8 @@ The main file is `AssignmentCat.js`, and the `input.json` file contains two test
 ## Final Output:
 
 - **Constant term for test case [1]:** 3
-- **Constant term for test case [2]:** 79836264050688
+- **Constant term for test case [2]:** 79836264049815
 
-![output in vs code](https://i.imgur.com/S8EqQcK.png)
+
 
 
