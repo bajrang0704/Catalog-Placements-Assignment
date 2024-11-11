@@ -11,5 +11,6 @@ The file M.java have the code in java these will give the below output
 - **Constant term for test case [2]:** 79836264049815
 
 
+<iframe src="https://imgur.com/a/output77-RZMXB7Q" width="600" height="400" frameborder="0" allowfullscreen></iframe>
 
 
